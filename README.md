@@ -1,20 +1,33 @@
-¡Hola, mundo! 👋
-¡Bienvenido a mi rincón de códigos y cafés interminables! Soy Raúl, un apasionado desarrollador web junior fullstack con un toque de curiosidad y una pizca de humor. Mi código puede no ser perfecto, ¡pero siempre está lleno de entusiasmo y energía!
+![Navy Blue Geometric Technology LinkedIn Banner (1)](https://github.com/Raauul1996/Raauul1996/assets/136567985/0ad273d4-680e-42b2-8272-499f603f29e4)
 
-Sobre Mí
-🚀 Actualmente estoy explorando el emocionante mundo del desarrollo web fullstack.
-🌱 Estoy en una misión para aprender algo nuevo cada día y mejorar mis habilidades constantemente.
-💬 Pregúntame sobre cualquier cosa relacionada con tecnología; si no sé la respuesta, juntos podemos investigarla.
-😄 Pronombres: Coder/Café Lover
-⚡ Dato Curioso: Nunca he conocido un problema que no pueda ser resuelto con un buen meme y una taza de café.
+Hello, world! 👋
 
+Welcome to my realm of endless codes and bottomless cups of coffee! I'm Raúl, a passionate junior fullstack web developer with a sprinkle of curiosity and a dash of humor. My code might not be perfect, but it's always infused with enthusiasm and energy!
 
-Lo Que Puedo Ofrecer
-💻 Código lleno de pasión y dedicación, con una pizca de creatividad.
-🤝 Colaboración entusiasta en proyectos interesantes y desafiantes.
-🧠 Una mente abierta y lista para aprender de cualquier desafío que se cruce en mi camino.
-☕ Una amplia colección de tazas de café y una playlist de música épica para esos largos días de codificación.
+· About Me:
 
+🚀 I'm currently venturing into the exciting world of fullstack web development.
 
-Cómo Contactarme
-¡Estoy siempre dispuesto a conectar con otros apasionados del código y los cafés! No dudes en enviarme un mensaje si quieres charlar sobre tecnología, compartir experiencias de desarrollo o, por supuesto, intercambiar recetas de café. 🚀☕️
+🌱 I'm on a mission to learn something new every day and constantly enhance my skills.
+
+💬 Ask me about anything related to technology; if I don't know the answer, together we can dive into the research.
+
+😄 Pronouns: Coder/Café Lover
+
+⚡ Fun Fact: I've never met a problem that can't be solved with a good meme.
+
+· What I Can Offer:
+
+💻 Code filled with passion and dedication, seasoned with a hint of creativity.
+
+🤝 Enthusiastic collaboration on interesting and challenging projects.
+
+🧠 An open mind, ready to learn from any challenge that comes my way.
+
+☕ A vast collection of coffee mugs and an epic music playlist for those long coding days.
+
+· How to Reach Me:
+
+I'm always eager to connect with fellow code enthusiasts and coffee lovers! Feel free to shoot me a message if you want to chat about technology, share development experiences, or, of course, exchange coffee recipes. 🚀☕️
+
+LinkedIn: https://www.linkedin.com/in/raulgimenezmurga/
