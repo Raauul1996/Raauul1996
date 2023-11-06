@@ -1,3 +1,4 @@
+![image](https://github.com/Raauul1996/Raauul1996/assets/136567985/77579bdd-b0df-4bb0-af78-7c2dbae568a7)
 
 ¡Hola, mundo! 👋
 ¡Bienvenido a mi rincón de códigos y cafés interminables! Soy Raúl, un apasionado desarrollador web junior fullstack con un toque de curiosidad y una pizca de humor. Mi código puede no ser perfecto, ¡pero siempre está lleno de entusiasmo y energía!
